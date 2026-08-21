@@ -1,0 +1,4 @@
+interface:
+  display_name: "Download Drive Files"
+  short_description: "Download Google Drive links through connectors"
+  default_prompt: "Use $download-drive-files to download this Google Drive link into the current workspace."
